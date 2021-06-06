@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![GitHub followers](https://img.shields.io/github/followers/VenomStyx?label=Follow&style=social)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=VenomStyx)
+
 <!--
 **VenomStyx/VenomStyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
