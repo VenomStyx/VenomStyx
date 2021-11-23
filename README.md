@@ -1,6 +1,5 @@
 ### Hi there! 👋
-##### I'm a developer focused on creating tools that empower others. Stuck with a never ending desire to help.
-
+##### I hope you find something useful here 😊
 
 ![GitHub followers](https://img.shields.io/github/followers/VenomStyx?label=Follow&style=social)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=VenomStyx)
